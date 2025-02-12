@@ -8,7 +8,7 @@
           <mxGeometry y="220" width="540" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="607.82" y="250" width="152.18" height="120" as="geometry" />
+          <mxGeometry x="610" y="250" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-56" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="40" y="240" width="545.83" height="190" as="geometry" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-64" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cubes.svg;" vertex="1" parent="1">
           <mxGeometry x="666.21" y="257.5" width="53.21" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="tssmhNXfSDJz3cl7gHx3-65" value="&lt;h3&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;IRoT layer&lt;/font&gt;&lt;/b&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
