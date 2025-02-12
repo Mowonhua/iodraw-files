@@ -83,10 +83,10 @@
           <mxGeometry x="-27.659999999999997" y="-8.909999999999997" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-58" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Verification_As_A_Service.svg;" vertex="1" parent="1">
-          <mxGeometry x="640" y="301" width="29" height="29" as="geometry" />
+          <mxGeometry x="630" y="270" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-59" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cubes.svg;" vertex="1" parent="1">
-          <mxGeometry x="730" y="296" width="67" height="68" as="geometry" />
+          <mxGeometry x="630" y="296" width="67" height="68" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-60" value="&lt;h3&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Hyperledger Fabric layer&lt;/font&gt;&lt;/b&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="190" width="160" height="30" as="geometry" />
