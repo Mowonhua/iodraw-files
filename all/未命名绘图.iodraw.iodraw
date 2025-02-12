@@ -82,7 +82,7 @@
         <mxCell id="tssmhNXfSDJz3cl7gHx3-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Consortium.svg;" vertex="1" parent="tssmhNXfSDJz3cl7gHx3-56">
           <mxGeometry x="-27.659999999999997" y="-8.909999999999997" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="tssmhNXfSDJz3cl7gHx3-60" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tssmhNXfSDJz3cl7gHx3-56">
+        <mxCell id="tssmhNXfSDJz3cl7gHx3-60" value="Hyperledger Fabric" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tssmhNXfSDJz3cl7gHx3-56">
           <mxGeometry x="-50" y="-20" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-58" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Verification_As_A_Service.svg;" vertex="1" parent="1">
