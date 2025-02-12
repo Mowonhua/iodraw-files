@@ -16,7 +16,10 @@
         <mxCell id="tssmhNXfSDJz3cl7gHx3-37" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="tssmhNXfSDJz3cl7gHx3-14" target="tssmhNXfSDJz3cl7gHx3-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tssmhNXfSDJz3cl7gHx3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tssmhNXfSDJz3cl7gHx3-14" target="tssmhNXfSDJz3cl7gHx3-38">
+        <mxCell id="tssmhNXfSDJz3cl7gHx3-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="tssmhNXfSDJz3cl7gHx3-14" target="tssmhNXfSDJz3cl7gHx3-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tssmhNXfSDJz3cl7gHx3-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="tssmhNXfSDJz3cl7gHx3-14" target="tssmhNXfSDJz3cl7gHx3-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/IoT_Central_Applications.svg;" vertex="1" parent="1">
