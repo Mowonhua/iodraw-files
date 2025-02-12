@@ -8,7 +8,7 @@
           <mxGeometry x="70" y="220" width="470" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="510" y="30" width="280" height="120" as="geometry" />
+          <mxGeometry x="620" y="30" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Consortium.svg;" vertex="1" parent="1">
           <mxGeometry x="80.45999999999998" y="106" width="68" height="68" as="geometry" />
