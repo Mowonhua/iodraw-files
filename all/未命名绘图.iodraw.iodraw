@@ -70,6 +70,12 @@
             <mxPoint x="220" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tssmhNXfSDJz3cl7gHx3-34" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="240.50458333333333" y="260" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tssmhNXfSDJz3cl7gHx3-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tssmhNXfSDJz3cl7gHx3-16" target="tssmhNXfSDJz3cl7gHx3-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
