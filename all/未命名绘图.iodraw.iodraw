@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tssmhNXfSDJz3cl7gHx3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="174" y="120" width="240" height="120" as="geometry" />
+          <mxGeometry x="220" y="10" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="280" height="120" as="geometry" />
@@ -13,7 +13,7 @@
         <mxCell id="tssmhNXfSDJz3cl7gHx3-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Consortium.svg;" vertex="1" parent="1">
           <mxGeometry x="80.45999999999998" y="106" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="tssmhNXfSDJz3cl7gHx3-37" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="tssmhNXfSDJz3cl7gHx3-14" target="tssmhNXfSDJz3cl7gHx3-36">
+        <mxCell id="tssmhNXfSDJz3cl7gHx3-37" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shape=link;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tssmhNXfSDJz3cl7gHx3-14" target="tssmhNXfSDJz3cl7gHx3-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="tssmhNXfSDJz3cl7gHx3-14" target="tssmhNXfSDJz3cl7gHx3-38">
