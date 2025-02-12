@@ -25,8 +25,14 @@
         <mxCell id="tssmhNXfSDJz3cl7gHx3-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/ABS_Member.svg;" vertex="1" parent="1">
           <mxGeometry x="260" y="115" width="43.08" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="tssmhNXfSDJz3cl7gHx3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tssmhNXfSDJz3cl7gHx3-9" target="tssmhNXfSDJz3cl7gHx3-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/ABS_Member.svg;" vertex="1" parent="1">
-          <mxGeometry x="383.08" y="115" width="43.08" height="50" as="geometry" />
+          <mxGeometry x="330" y="115" width="43.08" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tssmhNXfSDJz3cl7gHx3-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/ABS_Member.svg;" vertex="1" parent="1">
+          <mxGeometry x="400" y="115" width="43.08" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
