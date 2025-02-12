@@ -95,6 +95,9 @@
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-1419" value="xxx公司网络拓扑" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5ndhQeib2hF1OLIwhMSd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
