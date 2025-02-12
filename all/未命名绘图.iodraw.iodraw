@@ -52,7 +52,7 @@
         <mxCell id="tssmhNXfSDJz3cl7gHx3-30" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/IoT_Central_Applications.svg;" vertex="1" parent="1">
           <mxGeometry x="340" y="145.5" width="60" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="tssmhNXfSDJz3cl7gHx3-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="tssmhNXfSDJz3cl7gHx3-22">
+        <mxCell id="tssmhNXfSDJz3cl7gHx3-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tssmhNXfSDJz3cl7gHx3-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="99" y="390" as="sourcePoint" />
             <mxPoint x="220" y="214.5" as="targetPoint" />
