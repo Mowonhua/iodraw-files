@@ -64,10 +64,10 @@
             <mxPoint x="220" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tssmhNXfSDJz3cl7gHx3-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.535;entryY=0.947;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.489;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tssmhNXfSDJz3cl7gHx3-24" target="tssmhNXfSDJz3cl7gHx3-14">
+        <mxCell id="tssmhNXfSDJz3cl7gHx3-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.489;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tssmhNXfSDJz3cl7gHx3-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="119" y="400" as="sourcePoint" />
-            <mxPoint x="240" y="234.5" as="targetPoint" />
+            <mxPoint x="220" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
