@@ -89,7 +89,7 @@
           <mxGeometry x="730" y="296" width="67" height="68" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-60" value="&lt;h3&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Hyperledger Fabric&lt;/font&gt;&lt;/b&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="190" width="124.83" height="30" as="geometry" />
+          <mxGeometry y="190" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
