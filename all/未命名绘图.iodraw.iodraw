@@ -92,10 +92,10 @@
           <mxGeometry y="190" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-62" value="&lt;h3&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;IRoT layer&lt;/font&gt;&lt;/b&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="420" width="160" height="30" as="geometry" />
+          <mxGeometry x="30" y="420" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-63" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cubes.svg;" vertex="1" parent="1">
-          <mxGeometry x="693.21" y="308" width="53.21" height="54" as="geometry" />
+          <mxGeometry x="694.21" y="308" width="53.21" height="54" as="geometry" />
         </mxCell>
         <mxCell id="tssmhNXfSDJz3cl7gHx3-64" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cubes.svg;" vertex="1" parent="1">
           <mxGeometry x="666.21" y="257.5" width="53.21" height="54" as="geometry" />
